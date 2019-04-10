@@ -1,2 +1,2 @@
-# ![Wang Yi](face.jpg)
-Wang Yi's Blog
+# ![Wang Yi](face.jpg) Wang Yi's Blog
+
