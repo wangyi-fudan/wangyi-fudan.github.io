@@ -8,6 +8,3 @@
 
 [20190411:  fast randomized large scale linear regression:  wyreg](https://github.com/wangyi-fudan/wyreg)
 
-[20190424: Book in Chinese: Criticism of Life ](https://github.com/wangyi-fudan/Criticism-of-Life)
-
-[20190610: Article in Chinese: Bane of USA ](https://github.com/wangyi-fudan/Bane-of-USA)
