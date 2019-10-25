@@ -8,5 +8,5 @@
 
 [20190411:  fast randomized large scale linear regression:  wyreg](https://github.com/wangyi-fudan/wyreg)
 
-[20191020:  the ideal activation function for neural network: wyish](https://github.com/wangyi-fudan/wyish)
+[20191025:  tiny fast portable deep neural network for regression and classification](https://github.com/wangyi-fudan/wymlp)
 
