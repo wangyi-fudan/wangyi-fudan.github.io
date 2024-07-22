@@ -4,6 +4,8 @@
 
 This paper presents a novel hypothesis positing that intelligence is bounded by the size of the genome. We propose that the information content of a model can be measured by the number of bytes of its most strongly compressed saved file. The genome, being a model of life, holds an intrinsic information content of 580MB for humans, denoted as I_innate. Recent developments in large language models (LLMs) suggest that model size is a critical determinant of intelligence. By quantifying the brain's learnable parameters, I_acquired, we argue that in extreme cases, I_innate and I_acquired can be mutually contradictory. In such scenarios, if I_innate exceeds I_acquired, innate biological instincts prevail, ensuring survival. Conversely, if I_innate is less than or equal to I_acquired, the brain's acquired knowledge could lead to detrimental outcomes. Therefore, for survival, I_innate must be greater than I_acquired, establishing a bound on intelligence imposed by the genome. For humans, this implies that the quantized storage file of trainable brain parameters should be less than 580MB. This theory highlights the upper limit of biological intelligence, suggests a benchmark for AGI, and underscores the formidable risk of LLMs.
 
+![Cover](figure3.jpg)
+
 **Introduction**
 
 The interplay between genetics and intelligence has long intrigued scientists and researchers. Traditional views emphasize the role of genetic inheritance and environmental factors in shaping intelligence (Plomin et al., 1997). However, with the advent of LLMs and advanced AI, a new perspective emerges: intelligence might be constrained by the genomic information that forms the foundation of life itself. This paper proposes a novel theory that intelligence is fundamentally bounded by the size of the genome, which we refer to as the "Genome Bound of Intelligence."
@@ -18,11 +20,11 @@ The critical question then arises: which information is more robust, I_innate or
 
 For an organism to survive even under extreme conditions, it is imperative that I_innate exceeds I_acquired. Therefore, I_acquired <= I_innate becomes a bound, establishing the genomic limitation on intelligence. For humans, this bound suggests that the quantifiable storage of the brain's learnable parameters should be less than 580 MB. In terms of 8-bit lossless quantization, this equates to 580 million parameters. With 4-bit lossy quantization, the nominal parameter count doubles to 1.16 billion, although the effective parameters would be somewhat fewer.
 
-This seemingly counterintuitive theory can be intuitively explained through analogies. One might compare the genome to a skeletal structure and the brain to muscles. Overdeveloped muscles can break bones; similarly, an overly intelligent brain might be unsustainable by the body and genome (Coen, 1999). (Figure 1)
+This seemingly counterintuitive theory can be intuitively explained through analogies. One might compare the genome to a skeletal structure and the brain to muscles. Overdeveloped muscles can break bones; similarly, an overly intelligent brain might be unsustainable by the body and genome (Coen, 1999). ![Figure1](figure1.jpg)
 
 Empirical observations also support this theory: many geniuses, such as Newton, remained unmarried and childless, while highly educated individuals often pursue solitary or non-reproductive lives (Simonton, 1999). Furthermore, many brilliant minds have struggled with mental health issues (Jamison, 1993).
 
-When intelligence surpasses the genomic informational content, resulting in non-reproduction, natural selection acts to eliminate these excessively intelligent individuals, ultimately preserving the proposed bound. (Figure 2).
+When intelligence surpasses the genomic informational content, resulting in non-reproduction, natural selection acts to eliminate these excessively intelligent individuals, ultimately preserving the proposed bound. ![Figure2](figure2.jpg)
 
 This theory holds significant implications: A) It reveals that there is an upper limit to biological intelligence. B) It suggests that this upper limit is relatively modest, equivalent to approximately 580 million parameters, which provides valuable insights into the quest for AGI. C) It highlights humanity's relative smallness compared to LLMs, necessitating serious consideration of the risks posed by these colossal entities.
 
